@@ -2,7 +2,7 @@ package com.vignesh_nagarajan.uilities;
 
 import java.util.Scanner;
 
-public  class Utilites {
+public  class Utilities {
 	public static String getConsoleStringInput() {
 		String inputString="";
 		Scanner scanner=new Scanner(System.in);

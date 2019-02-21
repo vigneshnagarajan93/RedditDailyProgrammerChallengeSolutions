@@ -1,6 +1,6 @@
 package com.vignesh_nagarajan.easysolutions;
 
-import javax.swing.text.Utilities;
+import com.vignesh_nagarajan.uilities.Utilities;
 
 public class Challenge_No_375 {
  
